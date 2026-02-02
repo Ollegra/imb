@@ -1,3 +1,6 @@
+![License](https://img.shields.io/badge/license-GPLv3-blue)
+![Python](https://img.shields.io/badge/python-3.1%2B-blue.svg)
+
 # imb Рассчет индекса массы тела (TkInter)
 
 ![imb](https://github.com/user-attachments/assets/0d6db6cc-4140-4a45-8bd0-4ee30fccb0b3)
